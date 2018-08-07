@@ -1,0 +1,280 @@
+{"example": "而已 啦 .", "label": "0"}
+{"example": "跟 妳 走 .", "label": "0"}
+{"example": "的 數學 不行 .", "label": "0"}
+{"example": "說 的 .", "label": "0"}
+{"example": "， 現在 不是 耍 幽默 的時候 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "收到 的 消息 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "， .", "label": "0"}
+{"example": "塊 錢 .", "label": "0"}
+{"example": "建立 我們自己 的 支持者 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "但 我 不 開 .", "label": "0"}
+{"example": "我 技術 .", "label": "0"}
+{"example": "， 為何 大家 都 這樣 想 .", "label": "0"}
+{"example": "， 這裡 從不 打烊 .", "label": "0"}
+{"example": "生活 必需 啊 .", "label": "0"}
+{"example": "對 我 ， 我 會 很 感激 .", "label": "0"}
+{"example": "， 沒 人 知道 了 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "， 就是 肺 的 相關 研究 .", "label": "0"}
+{"example": "想要 多 一點 空間 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "就是 該 計畫 .", "label": "0"}
+{"example": "和 .", "label": "0"}
+{"example": "去 紐約大學 .", "label": "0"}
+{"example": "大聲 張揚 .", "label": "0"}
+{"example": "不適合 我 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "的確 用 取代 鍵 .", "label": "0"}
+{"example": "， 大事 .", "label": "0"}
+{"example": "趕快 習慣 ， 了 .", "label": "0"}
+{"example": "意思 .", "label": "0"}
+{"example": "啊 ， 興趣 嗜好 小孩 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "很 明顯 .", "label": "0"}
+{"example": "辦公室 裡 說 嗎 .", "label": "0"}
+{"example": "最好 別 打擾 我 工作 .", "label": "0"}
+{"example": "， 那是 你 要 對 藍 狗 聯盟 那 群 保守 民主黨 朋友 說 的 .", "label": "0"}
+{"example": "不會 跟 你 競爭 ， 他 會 跟 你的 兒子 競爭 .", "label": "0"}
+{"example": "不知道 妳 有 社交 生活 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "第九 頁 沒 東西 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "明顯 是的 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "個 ， 個 出 外務 了 .", "label": "0"}
+{"example": "， 參議員 ， 我們 有 .", "label": "0"}
+{"example": "說 這 讓 人 足智多謀 .", "label": "0"}
+{"example": "比 失去 慘 .", "label": "0"}
+{"example": "募款 晚宴 後 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "， 你 了 .", "label": "0"}
+{"example": "的 晚餐 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "花 的 時間 .", "label": "0"}
+{"example": "就是 狠 角色 吧 .", "label": "0"}
+{"example": "從不 客戶 的 身份 .", "label": "0"}
+{"example": "不一定 好 .", "label": "0"}
+{"example": "， 只是 我的 狀態 不太好 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "缺 .", "label": "0"}
+{"example": "只 需要 看 數據 ， 美國 女性 在 槍枝 安全 議題 有 決定性 的 力量 .", "label": "0"}
+{"example": "不是 想 跟 妳 會面 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "大概 要 等 一陣子 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "尊重 ， 但 反對 他們 的 看法 .", "label": "0"}
+{"example": "我的 私事 .", "label": "0"}
+{"example": "為什麼 要 內疚 .", "label": "0"}
+{"example": "會 的 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "都 知道 是 怎麼 .", "label": "0"}
+{"example": "很 接近 ， 但 最新 的 預測 結果 是 我們 至 票 .", "label": "0"}
+{"example": "， 妳 打錯了 .", "label": "0"}
+{"example": "人 很多 ， 但 大家 都 了 .", "label": "0"}
+{"example": "最後 一 筆 生意 ， 到 她 背叛 我們 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "不 的 原則 下 ， 當然 可以 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "妳 在 ， 法案 都 被 模糊 焦點 .", "label": "0"}
+{"example": "根本 沒 見過 他 ， 陷阱 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "， 我 不 清楚 他們 的 捐款 名單 .", "label": "0"}
+{"example": "當然 沒有 干預 .", "label": "0"}
+{"example": "， 是 私人 贊助 證明 表 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "的確 這種 方法 ， 但 從 沒有 付諸 實行 .", "label": "0"}
+{"example": "先生 明言 禁止 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "是 沒有 .", "label": "0"}
+{"example": "有 很多 種 工作 .", "label": "0"}
+{"example": "在 華盛頓 做 .", "label": "0"}
+{"example": "滿足 客戶 的 任何 需求 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "在 那兒 .", "label": "0"}
+{"example": "和 一個 客戶 參加 聚會 ， 我 試著 要 自我 介紹 ， 但 她 不理 我 .", "label": "0"}
+{"example": "， 先生 .", "label": "0"}
+{"example": "， 不 可怕 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "說 你 工作 的 事 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "讓 他們 的 餌 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "可 不容易 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "的 知道 了 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "叫 其實 我 媽 也 叫 瑪麗 .", "label": "0"}
+{"example": "不是 我 .", "label": "0"}
+{"example": "是 我 .", "label": "0"}
+{"example": "她 了 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "愛 棕色 .", "label": "0"}
+{"example": "很 完美 簡直 是 點睛之筆 .", "label": "0"}
+{"example": "會 的 .", "label": "0"}
+{"example": "對 啊 怎樣 了 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "叫 臺詞 記得 怎樣 .", "label": "0"}
+{"example": "也 做 .", "label": "0"}
+{"example": "把 我 甩 了 .", "label": "0"}
+{"example": "我 魷魚 了 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "了 真 不錯 .", "label": "0"}
+{"example": "像 你 比 她 漂亮 多 了 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "就是 一周 前 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "是 個 煉獄 幸好 魯 我 .", "label": "0"}
+{"example": "在 我的 破 公寓 里 .", "label": "0"}
+{"example": "五 花園 號 .", "label": "0"}
+{"example": "到 吧 真愛 在 召喚 呢 .", "label": "0"}
+{"example": "不 我 是 瑪麗 的 朋友 .", "label": "0"}
+{"example": "叫 瑪麗 .", "label": "0"}
+{"example": "很 喜歡 .", "label": "0"}
+{"example": "在 出版社 看書 .", "label": "0"}
+{"example": "我的 工作 就是 看書 .", "label": "0"}
+{"example": "在 出版社 看書 .", "label": "0"}
+{"example": "啊 好 的 .", "label": "0"}
+{"example": "覺得 已經 很 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "要死 了 嗎 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "我 稍微 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "但 別 說 口交 .", "label": "0"}
+{"example": "到了 就 一口 否認 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "的 那兒 很 漂亮 .", "label": "0"}
+{"example": "沒錯 他 從 沒 .", "label": "0"}
+{"example": "去 了 我 不 辛 這個 結果 若 我 這樣 的 細 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "出口 下面 .", "label": "0"}
+{"example": "不是 那個 老 女人 那個 美女 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "個 招呼 吧 .", "label": "0"}
+{"example": "還是 別 了 走 吧 .", "label": "0"}
+{"example": "個 驚喜 啊 .", "label": "0"}
+{"example": "還 行 其實 她 在 倫敦 也 過得 不容易 .", "label": "0"}
+{"example": "嗎 從 時候 開始 的 .", "label": "0"}
+{"example": "喜歡 的 就 行 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "等 嗎 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "非常 沒 .", "label": "0"}
+{"example": "已經 更 喜歡 她 了 .", "label": "0"}
+{"example": "剛 下來 .", "label": "0"}
+{"example": "個 好 消息 .", "label": "0"}
+{"example": "瑪麗 那個 .", "label": "0"}
+{"example": "的 我 了 年輕 的 女士 ， ， 是 .", "label": "0"}
+{"example": "我 討厭 別的 地方 .", "label": "0"}
+{"example": "是 有 一口 和 的 ， 總之 從來 所 使用 的 描寫 了 .", "label": "0"}
+{"example": "蘇格蘭 旅館 .", "label": "0"}
+{"example": "她 說 點 左右 過來 .", "label": "0"}
+{"example": "還 以為 她 在 這 里 .", "label": "0"}
+{"example": "吵架 了 .", "label": "0"}
+{"example": "她 可 興奮 了 就 在 樓下 .", "label": "0"}
+{"example": "以為 她 會 自己 呢 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "我 應該 跟 你 說 的 .", "label": "0"}
+{"example": "吧 也許 打扮 一下 .", "label": "0"}
+{"example": "吧 不要 .", "label": "0"}
+{"example": "漂亮 任務 完成 很好 .", "label": "0"}
+{"example": "不確定 不行 我 不 喜歡 .", "label": "0"}
+{"example": "極了 就是 它 了 .", "label": "0"}
+{"example": "讓 她 呆 在 樓下 呢 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "很 難過 我 擁抱 了 你 .", "label": "0"}
+{"example": "吧 謝謝 .", "label": "0"}
+{"example": "只是 要 讓 我 看 吉他 .", "label": "0"}
+{"example": "以為 妳 了 .", "label": "0"}
+{"example": "， 我 家人 供奉 的 .", "label": "0"}
+{"example": "， 我 家人 供奉 的 .", "label": "0"}
+{"example": "… ， 有的 .", "label": "0"}
+{"example": "只是 .", "label": "0"}
+{"example": "也 沒有 鼻子 ， 還是 會 過敏 .", "label": "0"}
+{"example": "這樣 .", "label": "0"}
+{"example": "跟 我 是 .", "label": "0"}
+{"example": "走路 ， 免得 .", "label": "0"}
+{"example": "就是 那樣 走 啊 .", "label": "0"}
+{"example": "做 .", "label": "0"}
+{"example": "從不 參加 彩排 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "不過 你 啊 .", "label": "0"}
+{"example": "… 你 知道 我的 ， .", "label": "0"}
+{"example": "被 遺忘 了 .", "label": "0"}
+{"example": "人 知道 .", "label": "0"}
+{"example": "曉得 ， 我 從來沒有 表演 過 .", "label": "0"}
+{"example": "… 我 是 啊 .", "label": "0"}
+{"example": "得 離開 這裡 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "也 是 .", "label": "0"}
+{"example": "的 人 都 在 談論 你 呢 .", "label": "0"}
+{"example": "我的 可可 太婆 .", "label": "0"}
+{"example": "， 我 是 學生 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "， 怎麼 了 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "頭 .", "label": "0"}
+{"example": "， 你 是 我的 醫生 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "只是 妳 個人 的 看法 .", "label": "0"}
+{"example": "跟 他們 好幾年 沒 說話 了 .", "label": "0"}
+{"example": "在 我們 交往 以前 發生 的 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "， 我 被 通知 出院 了 .", "label": "0"}
+{"example": "覺得 妳 很 美 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "， 我 很 抱歉 .", "label": "0"}
+{"example": "其實 是 我的 .", "label": "0"}
+{"example": "， 如果 還 沒 倒 的 話 我 有 .", "label": "0"}
+{"example": "起床 後 咖啡 生活 就是 全家 .", "label": "0"}
+{"example": "知道 ， 我 沒 生氣 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "準時 到 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "剛 在 市中心 .", "label": "0"}
+{"example": "， 我們 已經 不 一起 玩 了 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "會 嗎 .", "label": "0"}
+{"example": "， 我的 東西 的 醫生 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "， 怎麼 不 聽 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "玩 得很 開心 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "我們 兩 個 都 是 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "說 什麼 .", "label": "0"}
+{"example": "嗎 .", "label": "0"}
+{"example": "了 ， 我 放棄 .", "label": "0"}
+{"example": "抱歉 ， .", "label": "0"}
+{"example": "妳 想 問 我 什麼 就 隨時 問 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "別 失去 .", "label": "0"}
+{"example": "， 你 為什麼 要 這樣 做 .", "label": "0"}
+{"example": "是 ， 但 那是 在 妳 以前 .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "是 ， 但 那是 在 妳 以前 .", "label": "0"}
+{"example": "了 .", "label": "0"}
+{"example": "， 我 六 個 就 了 .", "label": "0"}
